@@ -1,11 +1,16 @@
 _repo: Climate-and-Health-in-Hot-Countries-and-the-Outlines-of-Tropical-Climatology-A-Popular-Treati__57122
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57122-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Giles, G. M.
     gutenberg_agent_id: '49204'
     url: http://www.gutenberg.org/2009/agents/49204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57122#Climate-and-Health-in-Hot-Countries-and-the-Outlines-of-Tropical-Climatology-A-Popular-Treati_
 gutenberg_issued: '2018-05-09'
 gutenberg_type: Text
 identifiers:
